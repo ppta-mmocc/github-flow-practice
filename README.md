@@ -1,4 +1,4 @@
 # github-flow-practice
 
-Testing 
-Testing
+I am Christopher
+blood type is A type
